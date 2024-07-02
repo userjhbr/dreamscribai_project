@@ -1,0 +1,22 @@
+~/dreamscribai_project/
+    ├── dreams/
+    │   ├── migrations/ __init__.py
+    │   ├── static/ ?
+    │   ├── templates/
+    │   │   └── dreams/
+    │   │       └── index.html
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── models.py
+    │   ├── tests.py
+    │   ├── urls.py ?
+    │   ├── views.py
+    ├── dreamscribai_project/
+        __pycache__/
+    │   ├── __init__.py
+    │   ├── asgi.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   ├── wsgi.py
+    ├── manage.py
